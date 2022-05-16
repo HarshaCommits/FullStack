@@ -31,7 +31,7 @@ h3{
 }
 
 .bottom_cloud{
-    width: 9.375rem;
+    width: 10%;
     position: absolute;
     left: 300px;
     bottom: 350px;
@@ -39,14 +39,14 @@ h3{
 }
 
 .top_cloud{
-    width: 9.375rem;
+    width: 15%;
     position: absolute;
     right: 300px;
     top: 50px;
 }
 
 .myself{
-    width: 12.25rem;
+    width: 13%;
     border-radius: 50%;
 }
 
@@ -66,7 +66,7 @@ h3{
 }
 
 .coding_skill{
-    width: 8.125rem;
+    width: 18%;
     float: left;
     margin-right: 30px;
 }
